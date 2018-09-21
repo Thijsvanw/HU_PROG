@@ -1,0 +1,10 @@
+letters = ('A', 'C', 'B', 'B', 'C', 'A', 'C', 'C', 'B')
+letters.count('A')
+letters.count('B')
+letters.count('C')
+lijst=[]
+lijst.append(letters.count('A'))
+print(lijst)
+lijst.append(letters.count('B'))
+lijst.append(letters.count('C'))
+print(lijst)
